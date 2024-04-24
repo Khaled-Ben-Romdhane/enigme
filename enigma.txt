@@ -1,0 +1,8 @@
+When_was_the_Medina_established? 1-9th_century 2-10th_century 3-12th_century 1
+What_are_the_notable_landmarks? 1-zitouna_mosque 2-hafseya 3-beb_el_fala 1
+Is_the_medina_touristic? 1-no 2-yes 3-maybe 2
+
+
+
+
+
